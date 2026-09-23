@@ -2,7 +2,7 @@
   "name": "vsce-workspace-sort",
   "displayName": "Sort Workspace Folders",
   "description": "Sort workspace folders by name or path",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "houengineer",
   "engines": {
     "vscode": "^1.90.0"
