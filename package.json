@@ -1,8 +1,8 @@
 {
-  "name": "vsce-workspace-sort",
+  "name": "sdw-he-vsce-workspace-sort",
   "displayName": "Sort Workspace Folders",
   "description": "Sort workspace folders by name or path",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "houengineer",
   "engines": {
     "vscode": "^1.90.0"
@@ -23,7 +23,7 @@
   "main": "./out/extension.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HouEngineer/vsce-workspace-sort.git"
+    "url": "https://github.com/HouEngineer/sdw-he-vsce-workspace-sort.git"
   },
   "icon": "images/icon.png",
   "contributes": {
