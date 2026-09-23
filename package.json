@@ -1,6 +1,6 @@
 {
   "name": "sdw-he-vsce-workspace-sort",
-  "displayName": "Sort Workspace Folders",
+  "displayName": "SDW-HE Sort Workspace Folders",
   "description": "Sort workspace folders by name or path",
   "version": "0.0.4",
   "publisher": "houengineer",
